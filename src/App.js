@@ -20,7 +20,6 @@ export default function App() {
         colorProps={colorProps}
         hexValue={hexValue}
         isDarkText={isDarkText}
-        // testing to see how the update to github feels like
       />
 
       <Form
